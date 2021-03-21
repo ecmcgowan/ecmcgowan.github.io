@@ -1,0 +1,10 @@
+img{
+	max-width: 100%;
+}
+.my-progress{
+	flex-direction: column;
+}
+.my-skill{
+	margin: 0;
+	text-align: left;
+}
