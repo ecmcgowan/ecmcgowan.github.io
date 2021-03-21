@@ -8,3 +8,28 @@ img{
 	margin: 0;
 	text-align: left;
 }
+.jumbotron {
+  background-image: url("images/background.jpeg");
+  background-size: cover;
+  color: white;
+}
+.scrolling-bakery{
+	height: 200px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+.smaller-image{
+	width: 25%;
+}
+.profile-pic{
+	width:50%;
+}
+html{
+	background-color: #57A060;
+}
+.profile{
+	background: #6BC0A2;
+}
+.navbar{
+	background: #6BC0A2
+}
